@@ -1,0 +1,57 @@
+PODS:
+  - Alamofire (5.4.1)
+  - AlamofireImage (4.1.0):
+    - Alamofire (~> 5.1)
+  - CocoaDebug (1.7.2)
+  - CryptoSwift (1.4.3)
+  - MockingbirdFramework (0.20.0)
+  - OHHTTPStubs/Core (9.1.0)
+  - OHHTTPStubs/Default (9.1.0):
+    - OHHTTPStubs/Core
+    - OHHTTPStubs/JSON
+    - OHHTTPStubs/NSURLSession
+    - OHHTTPStubs/OHPathHelpers
+  - OHHTTPStubs/JSON (9.1.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/NSURLSession (9.1.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/OHPathHelpers (9.1.0)
+  - OHHTTPStubs/Swift (9.1.0):
+    - OHHTTPStubs/Default
+  - SVProgressHUD (2.2.5)
+  - Swinject (2.8.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - AlamofireImage (~> 4.1)
+  - CocoaDebug (~> 1.7)
+  - CryptoSwift (~> 1.4)
+  - MockingbirdFramework (~> 0.20)
+  - OHHTTPStubs/Swift (~> 9.1)
+  - SVProgressHUD (~> 2.2)
+  - Swinject (~> 2.8)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - CocoaDebug
+    - CryptoSwift
+    - MockingbirdFramework
+    - OHHTTPStubs
+    - SVProgressHUD
+    - Swinject
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  AlamofireImage: c4a2ba349885fb3064feb74d2e547bd42ce9be10
+  CocoaDebug: 61cf93ada6ce8f3407507dc01f9b874d91ac1d5c
+  CryptoSwift: a0799ee936271bd2253a006f1e4523df21845000
+  MockingbirdFramework: 54e35fbbb47b806c1a1fae2cf3ef99f6eceb55e5
+  OHHTTPStubs: 90eac6d8f2c18317baeca36698523dc67c513831
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  Swinject: 97112918bd7e0785dc2df7036213f3c8cbba6586
+
+PODFILE CHECKSUM: 2975ee69b7fef5b77b636234d5b95eba47cf6963
+
+COCOAPODS: 1.11.3

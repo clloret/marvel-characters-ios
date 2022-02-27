@@ -1,0 +1,21 @@
+
+/* Class = "UIViewController"; title = "Datos del personaje"; ObjectID = "7cP-Vv-hk2"; */
+"7cP-Vv-hk2.title" = "Datos del personaje";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "H0x-5F-KmR"; */
+"H0x-5F-KmR.text" = "Label";
+
+/* Class = "UILabel"; text = "Comics"; ObjectID = "Kxs-ey-UgK"; */
+"Kxs-ey-UgK.text" = "Comics";
+
+/* Class = "UILabel"; text = "Nombre del personaje"; ObjectID = "brm-Wb-bAq"; */
+"brm-Wb-bAq.text" = "Nombre del personaje";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "cki-vK-QZA"; */
+"cki-vK-QZA.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "q1X-Wg-vOb"; */
+"q1X-Wg-vOb.text" = "Label";
+
+/* Class = "UIViewController"; title = "Personajes de Marvel"; ObjectID = "zIc-eW-6fX"; */
+"zIc-eW-6fX.title" = "Personajes de Marvel";

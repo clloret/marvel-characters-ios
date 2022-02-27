@@ -1,0 +1,3599 @@
+{
+  "etag": "7a92f604870d29d36744a9571861ec74ed4f5833",
+  "data": {
+    "results": [
+      {
+        "description": null,
+        "modified": "2021-11-02T09:05:35-0400",
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/6217f0d8a3f99",
+          "extension": "jpg"
+        },
+        "title": "Avengers Forever",
+        "diamondCode": "",
+        "issn": "",
+        "events": {
+          "returned": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/95768/events",
+          "items": [],
+          "available": 0
+        },
+        "upc": "75960620192100311",
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/6217f0d8a3f99",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "returned": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/95768/creators",
+          "items": [
+            {
+              "name": "Jason Aaron",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "role": "writer"
+            },
+            {
+              "name": "Tom Brevoort",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "role": "editor"
+            },
+            {
+              "name": "Guru Efx",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12239",
+              "role": "colorist"
+            },
+            {
+              "name": "Jason Keith",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/426",
+              "role": "colorist (cover)"
+            },
+            {
+              "name": "Aaron Kuder",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12979",
+              "role": "penciler (cover)"
+            },
+            {
+              "name": "Vc Cory Petit",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "role": "letterer"
+            },
+            {
+              "name": "Cam Smith",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/480",
+              "role": "inker"
+            }
+          ],
+          "available": 7
+        },
+        "textObjects": [],
+        "pageCount": 32,
+        "ean": "",
+        "id": 95768,
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2022-03-02T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-01-24T00:00:00-0500"
+          }
+        ],
+        "format": "Comic",
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/95768",
+        "stories": {
+          "returned": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/95768/stories",
+          "items": [
+            {
+              "name": "cover from Avengers Forever (2021) #3",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/212600",
+              "type": "cover"
+            },
+            {
+              "name": "story from Avengers Forever (2021) #3",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/212601",
+              "type": "interiorStory"
+            }
+          ],
+          "available": 2
+        },
+        "isbn": "",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/95768/avengers_forever_2021_3?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-Forever-3/digital-comic/58612?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          }
+        ],
+        "variants": [
+          {
+            "name": "Avengers Forever (2021) #3 (Variant)",
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/99937"
+          }
+        ],
+        "issueNumber": 3,
+        "collections": [],
+        "series": {
+          "name": "Avengers Forever (2021 - Present)",
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/32867"
+        },
+        "digitalId": 0,
+        "collectedIssues": [],
+        "characters": {
+          "returned": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/95768/characters",
+          "items": [
+            {
+              "name": "Avengers",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165"
+            },
+            {
+              "name": "Deathlok",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010890"
+            },
+            {
+              "name": "Ghost Rider (Robbie Reyes)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017833"
+            }
+          ],
+          "available": 3
+        },
+        "variantDescription": ""
+      },
+      {
+        "description": "It’s Valentine’s Day in Los Angeles, and hearts aren’t the only thing on fire—Robbie Reyes, AKA Ghost Rider, has a special mission to undertake in his Hell Charger…",
+        "modified": "2022-03-08T02:18:35-0500",
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/620690425d675",
+          "extension": "jpg"
+        },
+        "title": "Mighty Marvel Holiday Special - Ghost Ridin' to Love Infinity Comic (2022) #1",
+        "diamondCode": "",
+        "issn": "",
+        "events": {
+          "returned": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/92818/events",
+          "items": [],
+          "available": 0
+        },
+        "upc": "75960620060300511",
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/90/620690425d675",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "returned": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/92818/creators",
+          "items": [
+            {
+              "name": "Annalise Bissa",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13523",
+              "role": "editor"
+            },
+            {
+              "name": "Alba Glez",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14317",
+              "role": "penciler"
+            },
+            {
+              "name": "Jason Loo",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14269",
+              "role": "writer"
+            },
+            {
+              "name": "Lebeau Underwood",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8929",
+              "role": "inker"
+            }
+          ],
+          "available": 4
+        },
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "text": "It’s Valentine’s Day in Los Angeles, and hearts aren’t the only thing on fire—Robbie Reyes, AKA Ghost Rider, has a special mission to undertake in his Hell Charger…",
+            "language": "en-us"
+          }
+        ],
+        "pageCount": 10,
+        "ean": "",
+        "id": 92818,
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2022-02-14T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-01-17T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2022-02-14T00:00:00-0500"
+          }
+        ],
+        "format": "Digital Vertical Comic",
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/92818",
+        "stories": {
+          "returned": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/92818/stories",
+          "items": [
+            {
+              "name": "cover from Holidays Vertical Comic (2029) #5",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/206735",
+              "type": "cover"
+            },
+            {
+              "name": "story from Holidays Vertical Comic (2029) #5",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/206736",
+              "type": "interiorStory"
+            }
+          ],
+          "available": 2
+        },
+        "isbn": "",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/92818/mighty_marvel_holiday_special_-_ghost_ridin_to_love_infinity_comic_2022_1?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=57424&utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          }
+        ],
+        "variants": [],
+        "issueNumber": 1,
+        "collections": [],
+        "series": {
+          "name": "Mighty Marvel Holiday Special - Ghost Ridin' to Love Infinity Comic (2022)",
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/34414"
+        },
+        "digitalId": 57424,
+        "collectedIssues": [],
+        "characters": {
+          "returned": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/92818/characters",
+          "items": [
+            {
+              "name": "Ghost Rider (Robbie Reyes)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017833"
+            }
+          ],
+          "available": 1
+        },
+        "variantDescription": ""
+      },
+      {
+        "description": null,
+        "modified": "2021-10-05T09:05:46-0400",
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/61cf3ffec22f4",
+          "extension": "jpg"
+        },
+        "title": "Avengers Forever (2021) #2",
+        "diamondCode": "",
+        "issn": "",
+        "events": {
+          "returned": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/95767/events",
+          "items": [],
+          "available": 0
+        },
+        "upc": "75960620192100211",
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/61cf3ffec22f4",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "returned": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/95767/creators",
+          "items": [
+            {
+              "name": "Jason Aaron",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "role": "writer"
+            },
+            {
+              "name": "Tom Brevoort",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "role": "editor"
+            },
+            {
+              "name": "Guru Efx",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12239",
+              "role": "colorist (cover)"
+            },
+            {
+              "name": "Scott Hanna",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/362",
+              "role": "inker"
+            },
+            {
+              "name": "Roberto Poggi",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12978",
+              "role": "inker"
+            },
+            {
+              "name": "Cam Smith",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/480",
+              "role": "inker"
+            },
+            {
+              "name": "Aaron Kuder",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12979",
+              "role": "penciler (cover)"
+            },
+            {
+              "name": "Carlos Magno",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1005",
+              "role": "penciler"
+            },
+            {
+              "name": "Vc Cory Petit",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "role": "letterer"
+            }
+          ],
+          "available": 9
+        },
+        "textObjects": [],
+        "pageCount": 32,
+        "ean": "",
+        "id": 95767,
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2022-01-26T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2021-12-13T00:00:00-0500"
+          }
+        ],
+        "format": "Comic",
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/95767",
+        "stories": {
+          "returned": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/95767/stories",
+          "items": [
+            {
+              "name": "cover from Avengers Forever (2021) #2",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/212598",
+              "type": "cover"
+            },
+            {
+              "name": "story from Avengers Forever (2021) #2",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/212599",
+              "type": "interiorStory"
+            }
+          ],
+          "available": 2
+        },
+        "isbn": "",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/95767/avengers_forever_2021_2?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-Forever-2/digital-comic/58501?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          }
+        ],
+        "variants": [],
+        "issueNumber": 2,
+        "collections": [],
+        "series": {
+          "name": "Avengers Forever (2021 - Present)",
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/32867"
+        },
+        "digitalId": 0,
+        "collectedIssues": [],
+        "characters": {
+          "returned": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/95767/characters",
+          "items": [
+            {
+              "name": "Deathlok",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010890"
+            },
+            {
+              "name": "Ghost Rider (Robbie Reyes)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017833"
+            }
+          ],
+          "available": 2
+        },
+        "variantDescription": ""
+      },
+      {
+        "description": null,
+        "modified": "2021-09-04T09:04:33-0400",
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/61a92d267cd5a",
+          "extension": "jpg"
+        },
+        "title": "Avengers (2018) #51",
+        "diamondCode": "",
+        "issn": "2644-1616",
+        "events": {
+          "returned": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/92195/events",
+          "items": [],
+          "available": 0
+        },
+        "upc": "75960608857705111",
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/40/61a92d267cd5a",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "returned": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/92195/creators",
+          "items": [
+            {
+              "name": "Jason Aaron",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "role": "writer"
+            },
+            {
+              "name": "Tom Brevoort",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "role": "editor"
+            },
+            {
+              "name": "David Curiel",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13021",
+              "role": "colorist (cover)"
+            },
+            {
+              "name": "Juan Frigeri",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12624",
+              "role": "inker"
+            },
+            {
+              "name": "Javier Garron",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12426",
+              "role": "penciler (cover)"
+            },
+            {
+              "name": "Vc Cory Petit",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "role": "letterer"
+            }
+          ],
+          "available": 6
+        },
+        "textObjects": [],
+        "pageCount": 32,
+        "ean": "",
+        "id": 92195,
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2021-12-22T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2021-11-08T00:00:00-0500"
+          }
+        ],
+        "format": "Comic",
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/92195",
+        "stories": {
+          "returned": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/92195/stories",
+          "items": [
+            {
+              "name": "cover from Avengers (2018) #51",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/205474",
+              "type": "cover"
+            },
+            {
+              "name": "story from Avengers (2018) #51",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/205475",
+              "type": "interiorStory"
+            }
+          ],
+          "available": 2
+        },
+        "isbn": "",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/92195/avengers_2018_51?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-51/digital-comic/58160?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          }
+        ],
+        "variants": [
+          {
+            "name": "Avengers (2018) #51 (Variant)",
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/99152"
+          },
+          {
+            "name": "Avengers (2018) #51 (Variant)",
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/99201"
+          },
+          {
+            "name": "Avengers (2018) #51 (Variant)",
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/99537"
+          }
+        ],
+        "issueNumber": 51,
+        "collections": [],
+        "series": {
+          "name": "Avengers (2018 - Present)",
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24229"
+        },
+        "digitalId": 0,
+        "collectedIssues": [],
+        "characters": {
+          "returned": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/92195/characters",
+          "items": [
+            {
+              "name": "Avengers",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165"
+            },
+            {
+              "name": "Black Panther",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187"
+            },
+            {
+              "name": "Blade",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009191"
+            },
+            {
+              "name": "Echo",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010785"
+            },
+            {
+              "name": "Ghost Rider (Robbie Reyes)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017833"
+            },
+            {
+              "name": "Phoenix Force",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1014318"
+            }
+          ],
+          "available": 6
+        },
+        "variantDescription": ""
+      },
+      {
+        "description": null,
+        "modified": "2022-03-10T16:36:52-0500",
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 9.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/f0/61ae1ebb78eab",
+          "extension": "jpg"
+        },
+        "title": "Marvel's Voices: Comunidades (2021) #1",
+        "diamondCode": "",
+        "issn": "",
+        "events": {
+          "returned": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/98301/events",
+          "items": [],
+          "available": 0
+        },
+        "upc": "75960620249200111",
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/f0/61ae1ebb78eab",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "returned": 20,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/98301/creators",
+          "items": [
+            {
+              "name": "Jesus Aburtov",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11482",
+              "role": "colorist"
+            },
+            {
+              "name": "Erick Arciniega",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13162",
+              "role": "colorist"
+            },
+            {
+              "name": "Federico Blee",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13180",
+              "role": "colorist"
+            },
+            {
+              "name": "Edgar Delgado",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+              "role": "colorist"
+            },
+            {
+              "name": "Gustavo Duarte",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12694",
+              "role": "colorist"
+            },
+            {
+              "name": "Lauren Amaro",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13647",
+              "role": "editor"
+            },
+            {
+              "name": "Julio Anta",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14298",
+              "role": "writer"
+            },
+            {
+              "name": "David Betancourt",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14119",
+              "role": "writer"
+            },
+            {
+              "name": "Terry Blas",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14184",
+              "role": "writer"
+            },
+            {
+              "name": "Erica Harrell",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14297",
+              "role": "writer"
+            },
+            {
+              "name": "Enid Balam",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14183",
+              "role": "penciler"
+            },
+            {
+              "name": "Alba Glez",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14317",
+              "role": "penciler"
+            },
+            {
+              "name": "Alitha E. Martinez",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13254",
+              "role": "penciler"
+            },
+            {
+              "name": "Mauro Fodra",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14315",
+              "role": "inker"
+            },
+            {
+              "name": "Carlos Gomez",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10355",
+              "role": "inker"
+            },
+            {
+              "name": "Francisco Herrera",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/345",
+              "role": "inker"
+            },
+            {
+              "name": "Nico Leon",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13033",
+              "role": "inker"
+            },
+            {
+              "name": "Jose Marzan Jr.",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13345",
+              "role": "inker"
+            },
+            {
+              "name": "Richard Isanove",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13055",
+              "role": "colorist (cover)"
+            },
+            {
+              "name": "Vc Ariana Maher",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14075",
+              "role": "letterer"
+            }
+          ],
+          "available": 42
+        },
+        "textObjects": [],
+        "pageCount": 96,
+        "ean": "",
+        "id": 98301,
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2021-12-08T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2021-09-27T00:00:00-0400"
+          }
+        ],
+        "format": "Comic",
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/98301",
+        "stories": {
+          "returned": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/98301/stories",
+          "items": [
+            {
+              "name": "cover from Marvel's Voices: Latinx Heroes (2021) #1",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/217671",
+              "type": "cover"
+            },
+            {
+              "name": "story from Marvel's Voices: Latinx Heroes (2021) #1",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/217672",
+              "type": "interiorStory"
+            }
+          ],
+          "available": 2
+        },
+        "isbn": "",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/98301/marvels_voices_comunidades_2021_1?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Marvel-s-Voices-Comunidades-1/digital-comic/57793?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          }
+        ],
+        "variants": [],
+        "issueNumber": 1,
+        "collections": [],
+        "series": {
+          "name": "Marvel's Voices: Comunidades (2021)",
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/33907"
+        },
+        "digitalId": 0,
+        "collectedIssues": [],
+        "characters": {
+          "returned": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/98301/characters",
+          "items": [
+            {
+              "name": "Ghost Rider (Robbie Reyes)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017833"
+            },
+            {
+              "name": "Ms. America (America Chavez)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017824"
+            },
+            {
+              "name": "Reptil",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011376"
+            },
+            {
+              "name": "Spider-Girl (Anya Corazon)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009157"
+            },
+            {
+              "name": "Spider-Man (Miles Morales)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181"
+            },
+            {
+              "name": "Sunspot",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009638"
+            },
+            {
+              "name": "White Tiger (Angela Del Toro)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010853"
+            }
+          ],
+          "available": 7
+        },
+        "variantDescription": ""
+      },
+      {
+        "description": "COMMEMORATING LEGACY #750! Supersize extravaganza of Earth's mightiest action and surprises! Witness the jaw-dropping conclusion of \"World War She-Hulk!\" Learn the true purpose of the prehistoric Avengers! Uncover the shocking secret of the Iron Inquisitor! Behold the most powerful collection of super-psychopaths that any Earth has ever seen! Watch the Avengers recruit some shocking new members! And follow the Ghost Rider on a quest for vengeance across the Multiverse that will spark an all-new era in Avengers history! Plus: A bonus story featuring Thor by Christopher Ruocchio and Steve McNiven!",
+        "modified": "2021-07-23T09:04:38-0400",
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 9.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 9.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/619e6347512f0",
+          "extension": "jpg"
+        },
+        "title": "Avengers (2018) #50",
+        "diamondCode": "",
+        "issn": "2644-1616",
+        "events": {
+          "returned": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/89541/events",
+          "items": [],
+          "available": 0
+        },
+        "upc": "75960608857705011",
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/619e6347512f0",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "returned": 17,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/89541/creators",
+          "items": [
+            {
+              "name": "Jason Aaron",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "role": "writer"
+            },
+            {
+              "name": "Christopher Ruocchio",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14065",
+              "role": "writer"
+            },
+            {
+              "name": "David Baldeon",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9799",
+              "role": "inker"
+            },
+            {
+              "name": "Rafael Fonteriz",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13247",
+              "role": "inker"
+            },
+            {
+              "name": "Javier Garron",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12426",
+              "role": "inker"
+            },
+            {
+              "name": "Aaron Kuder",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12979",
+              "role": "inker"
+            },
+            {
+              "name": "Steve Mcniven",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9484",
+              "role": "inker"
+            },
+            {
+              "name": "Tom Brevoort",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "role": "editor"
+            },
+            {
+              "name": "David Curiel",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13021",
+              "role": "colorist"
+            },
+            {
+              "name": "Frank D'ARMATA",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+              "role": "colorist"
+            },
+            {
+              "name": "Matt Hollingsworth",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/507",
+              "role": "colorist"
+            },
+            {
+              "name": "Rachelle Rosenberg",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12991",
+              "role": "colorist"
+            },
+            {
+              "name": "Alex Sinclair",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14265",
+              "role": "colorist"
+            },
+            {
+              "name": "Laura Martin",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4306",
+              "role": "colorist (cover)"
+            },
+            {
+              "name": "Ed Mcguinness",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+              "role": "penciler (cover)"
+            },
+            {
+              "name": "Carlos Pacheco",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/101",
+              "role": "penciler"
+            },
+            {
+              "name": "Vc Cory Petit",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "role": "letterer"
+            }
+          ],
+          "available": 17
+        },
+        "textObjects": [],
+        "pageCount": 96,
+        "ean": "",
+        "id": 89541,
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2021-12-01T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2021-10-04T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2022-03-07T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2021-12-01T00:00:00-0500"
+          }
+        ],
+        "format": "Comic",
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/89541",
+        "stories": {
+          "returned": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/89541/stories",
+          "items": [
+            {
+              "name": "cover from Avengers (2018) #50",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/199399",
+              "type": "cover"
+            },
+            {
+              "name": "story from Avengers (2018) #50",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/199400",
+              "type": "interiorStory"
+            }
+          ],
+          "available": 2
+        },
+        "isbn": "",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/89541/avengers_2018_50?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-50/digital-comic/57885?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=57885&utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/57885?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          }
+        ],
+        "variants": [
+          {
+            "name": "Avengers (2018) #50 (Variant)",
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/97080"
+          },
+          {
+            "name": "Avengers (2018) #50 (Variant)",
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/98711"
+          }
+        ],
+        "issueNumber": 50,
+        "collections": [],
+        "series": {
+          "name": "Avengers (2018 - Present)",
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24229"
+        },
+        "digitalId": 57885,
+        "collectedIssues": [],
+        "characters": {
+          "returned": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/89541/characters",
+          "items": [
+            {
+              "name": "Avengers",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165"
+            },
+            {
+              "name": "Black Panther",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187"
+            },
+            {
+              "name": "Blade",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009191"
+            },
+            {
+              "name": "Captain America",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220"
+            },
+            {
+              "name": "Captain Marvel (Carol Danvers)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338"
+            },
+            {
+              "name": "Doctor Doom",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281"
+            },
+            {
+              "name": "Ghost Rider (Robbie Reyes)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017833"
+            },
+            {
+              "name": "She-Hulk (Jennifer Walters)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009583"
+            },
+            {
+              "name": "Thor",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664"
+            }
+          ],
+          "available": 9
+        },
+        "variantDescription": ""
+      },
+      {
+        "description": "Before VENOMVERSE, there is EDGE OF VENOMVERSE! It’s a symbiotic smorgasbord of stories, each featuring a major character becoming Venomized — all destined to feed into the main event itself! When the young mutant clone designated X-23 bonds with an alien parasite, can she hold it together — or is she doomed to give in to bloodlust? It’s a nightmare in pink when Gwenpool turns into a sword-slinging, web-swinging master of disaster! Robbie Reyes becomes the symbiotic spirit of vengeance, the Host Rider! Years in the future, meet the lethal Wolvenom in a terrifying tale set after the epic events of the original OLD MAN LOGAN! And when Deadpool bonds with Venom, just call him the Symbiote with the Slobber! Plus: War stories featuring Venomized versions of Punisher, Rocket Raccoon and more! Collecting EDGE OF VENOMVERSE #1-5 and VENOMVERSE: WAR STORIES #1.",
+        "modified": "2020-08-24T16:48:14-0400",
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 17.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/59fa493ca057f",
+          "extension": "jpg"
+        },
+        "title": "Edge Of Venomverse (Trade Paperback)",
+        "diamondCode": "AUG171025",
+        "issn": "",
+        "events": {
+          "returned": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65123/events",
+          "items": [],
+          "available": 0
+        },
+        "upc": "",
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/59fa493ca057f",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "returned": 20,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65123/creators",
+          "items": [
+            {
+              "name": "Andre Lima Araujo",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12297",
+              "role": "inker"
+            },
+            {
+              "name": "Alex Arizmendi",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13179",
+              "role": "inker"
+            },
+            {
+              "name": "Tana Ford",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12416",
+              "role": "inker"
+            },
+            {
+              "name": "Adam Gorham",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13040",
+              "role": "inker"
+            },
+            {
+              "name": "Annapaola Martello",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12801",
+              "role": "inker"
+            },
+            {
+              "name": "Khary Randolph",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/613",
+              "role": "inker"
+            },
+            {
+              "name": "Roland Boschi",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9371",
+              "role": "penciler"
+            },
+            {
+              "name": "Dan Brown",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11543",
+              "role": "colorist"
+            },
+            {
+              "name": "Ian Herring",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12996",
+              "role": "colorist"
+            },
+            {
+              "name": "Emilio Lopez",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13036",
+              "role": "colorist"
+            },
+            {
+              "name": "Lee Loughridge",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/593",
+              "role": "colorist"
+            },
+            {
+              "name": "Chris O'halloran",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13207",
+              "role": "colorist"
+            },
+            {
+              "name": "Cullen Bunn",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10023",
+              "role": "writer"
+            },
+            {
+              "name": "Clay Chapman",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13137",
+              "role": "writer"
+            },
+            {
+              "name": "Aaron Covington",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13489",
+              "role": "writer"
+            },
+            {
+              "name": "Christopher Hastings",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12759",
+              "role": "writer"
+            },
+            {
+              "name": "Ryan Key",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13385",
+              "role": "writer"
+            },
+            {
+              "name": "Nnedi Okorafor",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13208",
+              "role": "writer"
+            },
+            {
+              "name": "Vc Clayton Cowles",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+              "role": "letterer"
+            },
+            {
+              "name": "Francesco Mattina",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8495",
+              "role": "penciller (cover)"
+            }
+          ],
+          "available": 32
+        },
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "text": "Before VENOMVERSE, there is EDGE OF VENOMVERSE! It’s a symbiotic smorgasbord of stories, each featuring a major character becoming Venomized — all destined to feed into the main event itself! When the young mutant clone designated X-23 bonds with an alien parasite, can she hold it together — or is she doomed to give in to bloodlust? It’s a nightmare in pink when Gwenpool turns into a sword-slinging, web-swinging master of disaster! Robbie Reyes becomes the symbiotic spirit of vengeance, the Host Rider! Years in the future, meet the lethal Wolvenom in a terrifying tale set after the epic events of the original OLD MAN LOGAN! And when Deadpool bonds with Venom, just call him the Symbiote with the Slobber! Plus: War stories featuring Venomized versions of Punisher, Rocket Raccoon and more! Collecting EDGE OF VENOMVERSE #1-5 and VENOMVERSE: WAR STORIES #1.",
+            "language": "en-us"
+          }
+        ],
+        "pageCount": 144,
+        "ean": "9781302 908560 51799",
+        "id": 65123,
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-08-26T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-09-18T00:00:00-0400"
+          }
+        ],
+        "format": "Trade Paperback",
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/65123",
+        "stories": {
+          "returned": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65123/stories",
+          "items": [
+            {
+              "name": "cover from EDGE OF VENOMVERSE TPB (2017) #1",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/141338",
+              "type": "cover"
+            },
+            {
+              "name": "story from EDGE OF VENOMVERSE TPB (2017) #1",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/141339",
+              "type": "interiorStory"
+            }
+          ],
+          "available": 2
+        },
+        "isbn": "978-1-302-90856-0",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/65123/edge_of_venomverse_trade_paperback?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          }
+        ],
+        "variants": [],
+        "issueNumber": 0,
+        "collections": [],
+        "series": {
+          "name": "Edge Of Venomverse (2020)",
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/27311"
+        },
+        "digitalId": 0,
+        "collectedIssues": [],
+        "characters": {
+          "returned": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65123/characters",
+          "items": [
+            {
+              "name": "Deadpool",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268"
+            },
+            {
+              "name": "Eddie Brock",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010787"
+            },
+            {
+              "name": "Ghost Rider (Robbie Reyes)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017833"
+            },
+            {
+              "name": "Punisher",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009515"
+            },
+            {
+              "name": "Rocket Raccoon",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010744"
+            },
+            {
+              "name": "X-23",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009722"
+            }
+          ],
+          "available": 6
+        },
+        "variantDescription": ""
+      },
+      {
+        "description": null,
+        "modified": "2020-09-23T09:03:46-0400",
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/5f2c343f3efbc",
+          "extension": "jpg"
+        },
+        "title": "Avengers (2018) #35",
+        "diamondCode": "APR201019",
+        "issn": "2644-1616",
+        "events": {
+          "returned": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77938/events",
+          "items": [],
+          "available": 0
+        },
+        "upc": "75960608857703511",
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/5f2c343f3efbc",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "returned": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77938/creators",
+          "items": [
+            {
+              "name": "Jason Aaron",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "role": "writer"
+            },
+            {
+              "name": "Tom Brevoort",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "role": "editor"
+            },
+            {
+              "name": "Javier Garron",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12426",
+              "role": "inker"
+            },
+            {
+              "name": "Jason Keith",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/426",
+              "role": "colorist"
+            },
+            {
+              "name": "Vc Cory Petit",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "role": "letterer"
+            },
+            {
+              "name": "Rachelle Rosenberg",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12991",
+              "role": "colorist (cover)"
+            },
+            {
+              "name": "Matteo Scalera",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10317",
+              "role": "penciler (cover)"
+            }
+          ],
+          "available": 7
+        },
+        "textObjects": [],
+        "pageCount": 32,
+        "ean": "",
+        "id": 77938,
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-08-19T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-07-27T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2020-11-23T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2020-08-19T00:00:00-0400"
+          }
+        ],
+        "format": "Comic",
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/77938",
+        "stories": {
+          "returned": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77938/stories",
+          "items": [
+            {
+              "name": "cover from Avengers (2018) #35",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/172879",
+              "type": "cover"
+            },
+            {
+              "name": "story from Avengers (2018) #35",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/172880",
+              "type": "interiorStory"
+            }
+          ],
+          "available": 2
+        },
+        "isbn": "",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/77938/avengers_2018_35?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-35/digital-comic/55056?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=55056&utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/55056?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          }
+        ],
+        "variants": [],
+        "issueNumber": 35,
+        "collections": [],
+        "series": {
+          "name": "Avengers (2018 - Present)",
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24229"
+        },
+        "digitalId": 55056,
+        "collectedIssues": [],
+        "characters": {
+          "returned": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/77938/characters",
+          "items": [
+            {
+              "name": "Avengers",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165"
+            },
+            {
+              "name": "Ghost Rider (Robbie Reyes)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017833"
+            },
+            {
+              "name": "Moon Knight",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009452"
+            }
+          ],
+          "available": 3
+        },
+        "variantDescription": ""
+      },
+      {
+        "description": null,
+        "modified": "2019-09-06T09:16:42-0400",
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/50/5da4ca90ca1b2",
+          "extension": "jpg"
+        },
+        "title": "Avengers (2018) #25",
+        "diamondCode": "AUG191040",
+        "issn": "2644-1616",
+        "events": {
+          "returned": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71058/events",
+          "items": [],
+          "available": 0
+        },
+        "upc": "75960608857702511",
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/e/50/5da4ca90ca1b2",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "returned": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71058/creators",
+          "items": [
+            {
+              "name": "Jason Aaron",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "role": "writer"
+            },
+            {
+              "name": "Erick Arciniega",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13162",
+              "role": "colorist"
+            },
+            {
+              "name": "Jason Keith",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/426",
+              "role": "colorist"
+            },
+            {
+              "name": "Tom Brevoort",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "role": "editor"
+            },
+            {
+              "name": "Stefano Caselli",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1133",
+              "role": "penciler (cover)"
+            },
+            {
+              "name": "Marcio Menyz",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13058",
+              "role": "colorist (cover)"
+            },
+            {
+              "name": "Vc Cory Petit",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "role": "letterer"
+            }
+          ],
+          "available": 7
+        },
+        "textObjects": [],
+        "pageCount": 32,
+        "ean": "",
+        "id": 71058,
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-10-23T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-09-30T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2020-04-27T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2019-10-23T00:00:00-0400"
+          }
+        ],
+        "format": "Comic",
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/71058",
+        "stories": {
+          "returned": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71058/stories",
+          "items": [
+            {
+              "name": "cover from Avengers (2018) #25",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/158091",
+              "type": "cover"
+            },
+            {
+              "name": "story from Avengers (2018) #25",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/158092",
+              "type": "interiorStory"
+            }
+          ],
+          "available": 2
+        },
+        "isbn": "",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/71058/avengers_2018_25?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-25/digital-comic/52720?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=52720&utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/52720?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          }
+        ],
+        "variants": [
+          {
+            "name": "Avengers (2018) #25 (Variant)",
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/78764"
+          },
+          {
+            "name": "Avengers (2018) #25 (Variant)",
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/81306"
+          }
+        ],
+        "issueNumber": 25,
+        "collections": [],
+        "series": {
+          "name": "Avengers (2018 - Present)",
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24229"
+        },
+        "digitalId": 52720,
+        "collectedIssues": [],
+        "characters": {
+          "returned": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71058/characters",
+          "items": [
+            {
+              "name": "Avengers",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165"
+            },
+            {
+              "name": "Ghost Rider (Johnny Blaze)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009318"
+            },
+            {
+              "name": "Ghost Rider (Robbie Reyes)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017833"
+            }
+          ],
+          "available": 3
+        },
+        "variantDescription": ""
+      },
+      {
+        "description": null,
+        "modified": "2019-09-06T09:16:40-0400",
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5d7f939bd005d",
+          "extension": "jpg"
+        },
+        "title": "Avengers (2018) #24",
+        "diamondCode": "JUL190947",
+        "issn": "2644-1616",
+        "events": {
+          "returned": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71057/events",
+          "items": [],
+          "available": 0
+        },
+        "upc": "75960608857702411",
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5d7f939bd005d",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "returned": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71057/creators",
+          "items": [
+            {
+              "name": "Jason Aaron",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "role": "writer"
+            },
+            {
+              "name": "Tom Brevoort",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "role": "editor"
+            },
+            {
+              "name": "Stefano Caselli",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1133",
+              "role": "penciler (cover)"
+            },
+            {
+              "name": "Jason Keith",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/426",
+              "role": "colorist"
+            },
+            {
+              "name": "Marcio Menyz",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13058",
+              "role": "colorist (cover)"
+            },
+            {
+              "name": "Vc Cory Petit",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "role": "letterer"
+            },
+            {
+              "name": "Luciano Vecchio",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11961",
+              "role": "penciler"
+            }
+          ],
+          "available": 7
+        },
+        "textObjects": [],
+        "pageCount": 32,
+        "ean": "",
+        "id": 71057,
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-09-25T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-09-02T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2020-03-30T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2019-09-25T00:00:00-0400"
+          }
+        ],
+        "format": "Comic",
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/71057",
+        "stories": {
+          "returned": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71057/stories",
+          "items": [
+            {
+              "name": "cover from Avengers (2018) #24",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/158089",
+              "type": "cover"
+            },
+            {
+              "name": "story from Avengers (2018) #24",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/158090",
+              "type": "interiorStory"
+            }
+          ],
+          "available": 2
+        },
+        "isbn": "",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/71057/avengers_2018_24?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-24/digital-comic/52581?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=52581&utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/52581?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          }
+        ],
+        "variants": [
+          {
+            "name": "Avengers (2018) #24 (Variant)",
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/78226"
+          }
+        ],
+        "issueNumber": 24,
+        "collections": [],
+        "series": {
+          "name": "Avengers (2018 - Present)",
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24229"
+        },
+        "digitalId": 52581,
+        "collectedIssues": [],
+        "characters": {
+          "returned": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71057/characters",
+          "items": [
+            {
+              "name": "Avengers",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165"
+            },
+            {
+              "name": "Ghost Rider (Johnny Blaze)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009318"
+            },
+            {
+              "name": "Ghost Rider (Robbie Reyes)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017833"
+            }
+          ],
+          "available": 3
+        },
+        "variantDescription": ""
+      },
+      {
+        "description": null,
+        "modified": "2019-05-30T09:06:04-0400",
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/5d5d4ce2c8f6e",
+          "extension": "jpg"
+        },
+        "title": "Avengers (2018) #23",
+        "diamondCode": "JUN190905",
+        "issn": "0274-5240",
+        "events": {
+          "returned": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71056/events",
+          "items": [],
+          "available": 0
+        },
+        "upc": "75960608857702311",
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/d0/5d5d4ce2c8f6e",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "returned": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71056/creators",
+          "items": [
+            {
+              "name": "Jason Aaron",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "role": "writer"
+            },
+            {
+              "name": "Tom Brevoort",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "role": "editor"
+            },
+            {
+              "name": "Stefano Caselli",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1133",
+              "role": "penciler (cover)"
+            },
+            {
+              "name": "Edgar Delgado",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+              "role": "colorist (cover)"
+            },
+            {
+              "name": "Jason Keith",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/426",
+              "role": "colorist"
+            },
+            {
+              "name": "Vc Cory Petit",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "role": "letterer"
+            }
+          ],
+          "available": 6
+        },
+        "textObjects": [],
+        "pageCount": 32,
+        "ean": "",
+        "id": 71056,
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-08-28T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-08-05T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2020-03-02T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2019-08-28T00:00:00-0400"
+          }
+        ],
+        "format": "Comic",
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/71056",
+        "stories": {
+          "returned": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71056/stories",
+          "items": [
+            {
+              "name": "cover from Avengers (2018) #23",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/158087",
+              "type": "cover"
+            },
+            {
+              "name": "story from Avengers (2018) #23",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/158088",
+              "type": "interiorStory"
+            }
+          ],
+          "available": 2
+        },
+        "isbn": "",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/71056/avengers_2018_23?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-23/digital-comic/52400?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=52400&utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/52400?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          }
+        ],
+        "variants": [
+          {
+            "name": "Avengers (2018) #23 (Variant)",
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/77626"
+          },
+          {
+            "name": "Avengers (2018) #23 (Variant)",
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/78225"
+          },
+          {
+            "name": "Avengers (2018) #23 (Variant)",
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/81182"
+          }
+        ],
+        "issueNumber": 23,
+        "collections": [],
+        "series": {
+          "name": "Avengers (2018 - Present)",
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24229"
+        },
+        "digitalId": 52400,
+        "collectedIssues": [],
+        "characters": {
+          "returned": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71056/characters",
+          "items": [
+            {
+              "name": "Avengers",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165"
+            },
+            {
+              "name": "Ghost Rider (Johnny Blaze)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009318"
+            },
+            {
+              "name": "Ghost Rider (Robbie Reyes)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017833"
+            }
+          ],
+          "available": 3
+        },
+        "variantDescription": ""
+      },
+      {
+        "description": null,
+        "modified": "2019-05-02T09:04:18-0400",
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/5d3880d58bddc",
+          "extension": "jpg"
+        },
+        "title": "Avengers (2018) #22",
+        "diamondCode": "MAY190746",
+        "issn": "0274-5240",
+        "events": {
+          "returned": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71055/events",
+          "items": [],
+          "available": 0
+        },
+        "upc": "75960608857702211",
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/b0/5d3880d58bddc",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "returned": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71055/creators",
+          "items": [
+            {
+              "name": "Jason Aaron",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "role": "writer"
+            },
+            {
+              "name": "Clay Chapman",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13137",
+              "role": "writer"
+            },
+            {
+              "name": "Alberto Alburquerque",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13225",
+              "role": "penciler"
+            },
+            {
+              "name": "Tom Brevoort",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "role": "editor"
+            },
+            {
+              "name": "Stefano Caselli",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1133",
+              "role": "penciler (cover)"
+            },
+            {
+              "name": "Jason Keith",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/426",
+              "role": "colorist"
+            },
+            {
+              "name": "Jay David Ramos",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8706",
+              "role": "colorist"
+            },
+            {
+              "name": "Frank Martin",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4991",
+              "role": "colorist (cover)"
+            },
+            {
+              "name": "Vc Cory Petit",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "role": "letterer"
+            }
+          ],
+          "available": 9
+        },
+        "textObjects": [],
+        "pageCount": 32,
+        "ean": "",
+        "id": 71055,
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-07-31T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-07-08T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2020-02-03T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2019-07-31T00:00:00-0400"
+          }
+        ],
+        "format": "Comic",
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/71055",
+        "stories": {
+          "returned": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71055/stories",
+          "items": [
+            {
+              "name": "cover from Avengers (2018) #22",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/158085",
+              "type": "cover"
+            },
+            {
+              "name": "story from Avengers (2018) #22",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/158086",
+              "type": "interiorStory"
+            }
+          ],
+          "available": 2
+        },
+        "isbn": "",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/71055/avengers_2018_22?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-22/digital-comic/51923?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=51923&utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/51923?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          }
+        ],
+        "variants": [
+          {
+            "name": "Avengers (2018) #22 (Variant)",
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/77202"
+          }
+        ],
+        "issueNumber": 22,
+        "collections": [],
+        "series": {
+          "name": "Avengers (2018 - Present)",
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24229"
+        },
+        "digitalId": 51923,
+        "collectedIssues": [],
+        "characters": {
+          "returned": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71055/characters",
+          "items": [
+            {
+              "name": "Avengers",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165"
+            },
+            {
+              "name": "Ghost Rider (Johnny Blaze)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009318"
+            },
+            {
+              "name": "Ghost Rider (Robbie Reyes)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017833"
+            }
+          ],
+          "available": 3
+        },
+        "variantDescription": ""
+      },
+      {
+        "description": "THE PUNISHER LEADS THE CHARGE TO SHUT DOWN THE BLACK BIFROST! Deep in the swamps of Svartalfheim stands the Black Bifrost, Malekith’s corrupted Rainbow Bridge and the only reliable means of travel between the realms with the true Bifrost in pieces. If the gods are going to stop Malekith’s invasion, the Black Bridge must fall. With her son missing and husband injured, Lady Freyja must take up the challenge herself. But she won’t go alone. Hulk (Jen Walters), the Punisher, Blade and Ghost Rider follow the All-Mother of Asgard straight into Malekith’s home territory!\n",
+        "modified": "2019-04-26T17:22:53-0400",
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/5cc201c5e830c",
+          "extension": "jpg"
+        },
+        "title": "War of the Realms Strikeforce: The Dark Elf Realm (2019) #1",
+        "diamondCode": "MAR190780",
+        "issn": "",
+        "events": {
+          "returned": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/75483/events",
+          "items": [],
+          "available": 0
+        },
+        "upc": "75960609392200111",
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/5cc201c5e830c",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/20/5c76d4d1af2db",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "returned": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/75483/creators",
+          "items": [
+            {
+              "name": "Wilson Moss",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+              "role": "editor"
+            },
+            {
+              "name": "Leinil Francis Yu",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+              "role": "penciller (cover)"
+            }
+          ],
+          "available": 2
+        },
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "text": "THE PUNISHER LEADS THE CHARGE TO SHUT DOWN THE BLACK BIFROST! Deep in the swamps of Svartalfheim stands the Black Bifrost, Malekith’s corrupted Rainbow Bridge and the only reliable means of travel between the realms with the true Bifrost in pieces. If the gods are going to stop Malekith’s invasion, the Black Bridge must fall. With her son missing and husband injured, Lady Freyja must take up the challenge herself. But she won’t go alone. Hulk (Jen Walters), the Punisher, Blade and Ghost Rider follow the All-Mother of Asgard straight into Malekith’s home territory!\n",
+            "language": "en-us"
+          }
+        ],
+        "pageCount": 40,
+        "ean": "",
+        "id": 75483,
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-05-01T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-04-08T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2019-11-04T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2019-05-01T00:00:00-0400"
+          }
+        ],
+        "format": "Comic",
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/75483",
+        "stories": {
+          "returned": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/75483/stories",
+          "items": [
+            {
+              "name": "cover from new series (2019) #1",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/167803",
+              "type": "cover"
+            },
+            {
+              "name": "story from new series (2019) #1",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/167804",
+              "type": "interiorStory"
+            }
+          ],
+          "available": 2
+        },
+        "isbn": "",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/75483/war_of_the_realms_strikeforce_the_dark_elf_realm_2019_1?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/WAR-OF-THE-REALMS-STRIKEFORCE-THE-DARK-ELF-REALM-1-1/digital-comic/51381?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=51381&utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/51381?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          }
+        ],
+        "variants": [],
+        "issueNumber": 1,
+        "collections": [],
+        "series": {
+          "name": "War of the Realms Strikeforce: The Dark Elf Realm (2019)",
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/27138"
+        },
+        "digitalId": 51381,
+        "collectedIssues": [],
+        "characters": {
+          "returned": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/75483/characters",
+          "items": [
+            {
+              "name": "Blade",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009191"
+            },
+            {
+              "name": "Ghost Rider (Robbie Reyes)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017833"
+            },
+            {
+              "name": "Punisher",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009515"
+            },
+            {
+              "name": "She-Hulk (Jennifer Walters)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009583"
+            }
+          ],
+          "available": 4
+        },
+        "variantDescription": ""
+      },
+      {
+        "description": null,
+        "modified": "2018-12-14T09:03:51-0500",
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/5c6493635d73f",
+          "extension": "jpg"
+        },
+        "title": "Avengers (2018) #15",
+        "diamondCode": "DEC180935",
+        "issn": "0274-5240",
+        "events": {
+          "returned": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71048/events",
+          "items": [],
+          "available": 0
+        },
+        "upc": "75960608857701511",
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/5c6493635d73f",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/70/5bfecdfe2c54d",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "returned": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71048/creators",
+          "items": [
+            {
+              "name": "Jason Aaron",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "role": "writer"
+            },
+            {
+              "name": "Erick Arciniega",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13162",
+              "role": "colorist"
+            },
+            {
+              "name": "Tom Brevoort",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "role": "editor"
+            },
+            {
+              "name": "David Marquez",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11610",
+              "role": "penciler (cover)"
+            },
+            {
+              "name": "Vc Cory Petit",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "role": "letterer (cover)"
+            },
+            {
+              "name": "Justin Ponsor",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/360",
+              "role": "colorist (cover)"
+            }
+          ],
+          "available": 6
+        },
+        "textObjects": [],
+        "pageCount": 32,
+        "ean": "",
+        "id": 71048,
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2019-02-20T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2019-01-28T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2019-08-26T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2019-02-20T00:00:00-0500"
+          }
+        ],
+        "format": "Comic",
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/71048",
+        "stories": {
+          "returned": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71048/stories",
+          "items": [
+            {
+              "name": "cover from Avengers (2018) #15",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/158071",
+              "type": "cover"
+            },
+            {
+              "name": "story from Avengers (2018) #15",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/158072",
+              "type": "interiorStory"
+            }
+          ],
+          "available": 2
+        },
+        "isbn": "",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/71048/avengers_2018_15?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-15/digital-comic/50569?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=50569&utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/50569?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          }
+        ],
+        "variants": [],
+        "issueNumber": 15,
+        "collections": [],
+        "series": {
+          "name": "Avengers (2018 - Present)",
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24229"
+        },
+        "digitalId": 50569,
+        "collectedIssues": [],
+        "characters": {
+          "returned": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/71048/characters",
+          "items": [
+            {
+              "name": "Avengers",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165"
+            },
+            {
+              "name": "Ghost Rider (Robbie Reyes)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017833"
+            }
+          ],
+          "available": 2
+        },
+        "variantDescription": ""
+      },
+      {
+        "description": " You’ve only heard whispers of this real-world/Marvel Universe crossover until now, when moral decline and budgetary shortfalls have combined to lower our lawyers’ resistance! Sebastian Girner (Shirtless Bear-Fighter, Scales & Scoundrels) and Caspar Wijngaard (Angelic, Limbo, DOCTOR APHRA ANNUAL #2) recklessly bring you the tale of the first and only true Nordic black metal band to visit the Marvel Universe through the INSANITY of likeness release waivers! What role does GHOST RIDER Robbie Reyes play, and will YOUR MIND survive the BRUTALITY?! ",
+        "modified": "2019-05-16T11:15:34-0400",
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5bbe677106d68",
+          "extension": "jpg"
+        },
+        "title": "What If? Ghost Rider (2018) #1",
+        "diamondCode": "AUG180921",
+        "issn": "",
+        "events": {
+          "returned": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/73504/events",
+          "items": [],
+          "available": 0
+        },
+        "upc": "75960609225300111",
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/5bbe677106d68",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/e0/5b620c27b6be3",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "returned": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/73504/creators",
+          "items": [
+            {
+              "name": "Aleksi Briclot",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5634",
+              "role": "penciler (cover)"
+            },
+            {
+              "name": "Sebastian Girner",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11486",
+              "role": "writer"
+            },
+            {
+              "name": "Kathleen Wisneski",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13133",
+              "role": "editor"
+            }
+          ],
+          "available": 3
+        },
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "text": " You’ve only heard whispers of this real-world/Marvel Universe crossover until now, when moral decline and budgetary shortfalls have combined to lower our lawyers’ resistance! Sebastian Girner (Shirtless Bear-Fighter, Scales & Scoundrels) and Caspar Wijngaard (Angelic, Limbo, DOCTOR APHRA ANNUAL #2) recklessly bring you the tale of the first and only true Nordic black metal band to visit the Marvel Universe through the INSANITY of likeness release waivers! What role does GHOST RIDER Robbie Reyes play, and will YOUR MIND survive the BRUTALITY?! ",
+            "language": "en-us"
+          }
+        ],
+        "pageCount": 32,
+        "ean": "",
+        "id": 73504,
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-10-17T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-09-24T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2019-04-22T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2018-10-17T00:00:00-0400"
+          }
+        ],
+        "format": "Comic",
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/73504",
+        "stories": {
+          "returned": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/73504/stories",
+          "items": [
+            {
+              "name": "cover from What If? Ghost Rider (2018) #1",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/163814",
+              "type": "cover"
+            },
+            {
+              "name": "story from What If? Ghost Rider (2018) #1",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/163815",
+              "type": "interiorStory"
+            }
+          ],
+          "available": 2
+        },
+        "isbn": "",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/73504/what_if_ghost_rider_2018_1?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/WHAT-IF-GHOST-RIDER-1-1/digital-comic/49451?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=49451&utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/49451?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          }
+        ],
+        "variants": [],
+        "issueNumber": 1,
+        "collections": [],
+        "series": {
+          "name": "What If? Ghost Rider (2018)",
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/26487"
+        },
+        "digitalId": 49451,
+        "collectedIssues": [],
+        "characters": {
+          "returned": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/73504/characters",
+          "items": [
+            {
+              "name": "Ghost Rider (Robbie Reyes)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017833"
+            }
+          ],
+          "available": 1
+        },
+        "variantDescription": ""
+      },
+      {
+        "description": "THE FINAL HOST CONCLUDES! The final battle against the Dark Celestials. A battle unlike any the Avengers have ever experienced. A battle a million years in the making. The new team of heavy hitters assembles at last. But will the young, inexperienced Ghost Rider prove to be the most important and powerful member of all?",
+        "modified": "2018-08-15T16:42:48-0400",
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/90/5b748e48ef477",
+          "extension": "jpg"
+        },
+        "title": "Avengers (2018) #6",
+        "diamondCode": "JUN180841",
+        "issn": "0274-5240",
+        "events": {
+          "returned": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67763/events",
+          "items": [],
+          "available": 0
+        },
+        "upc": "75960608857700611",
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/90/5b748e48ef477",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/00/5b0ee13715a75",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "returned": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67763/creators",
+          "items": [
+            {
+              "name": "Jason Aaron",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "role": "writer"
+            },
+            {
+              "name": "Tom Brevoort",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "role": "editor"
+            },
+            {
+              "name": "David Curiel",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13021",
+              "role": "colorist (cover)"
+            },
+            {
+              "name": "Ed Mcguinness",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+              "role": "penciler (cover)"
+            },
+            {
+              "name": "Paco Medina",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/208",
+              "role": "penciler"
+            },
+            {
+              "name": "Mark Morales",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/454",
+              "role": "inker"
+            },
+            {
+              "name": "Juan Vlasco",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/413",
+              "role": "inker"
+            },
+            {
+              "name": "Vc Cory Petit",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "role": "letterer"
+            }
+          ],
+          "available": 8
+        },
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "text": "THE FINAL HOST CONCLUDES! The final battle against the Dark Celestials. A battle unlike any the Avengers have ever experienced. A battle a million years in the making. The new team of heavy hitters assembles at last. But will the young, inexperienced Ghost Rider prove to be the most important and powerful member of all?",
+            "language": "en-us"
+          }
+        ],
+        "pageCount": 32,
+        "ean": "",
+        "id": 67763,
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-08-22T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-07-30T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2019-02-25T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2018-08-22T00:00:00-0400"
+          }
+        ],
+        "format": "Comic",
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/67763",
+        "stories": {
+          "returned": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67763/stories",
+          "items": [
+            {
+              "name": "cover from Avengers (2018) #6",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/146910",
+              "type": "cover"
+            },
+            {
+              "name": "story from Avengers (2018) #6",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/146911",
+              "type": "interiorStory"
+            }
+          ],
+          "available": 2
+        },
+        "isbn": "",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/67763/avengers_2018_6?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-6/digital-comic/48863?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=48863&utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/48863?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          }
+        ],
+        "variants": [],
+        "issueNumber": 6,
+        "collections": [],
+        "series": {
+          "name": "Avengers (2018 - Present)",
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24229"
+        },
+        "digitalId": 48863,
+        "collectedIssues": [],
+        "characters": {
+          "returned": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67763/characters",
+          "items": [
+            {
+              "name": "Avengers",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165"
+            },
+            {
+              "name": "Black Panther",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187"
+            },
+            {
+              "name": "Captain America",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220"
+            },
+            {
+              "name": "Doctor Strange",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282"
+            },
+            {
+              "name": "Ghost Rider (Robbie Reyes)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017833"
+            },
+            {
+              "name": "Iron Man",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368"
+            },
+            {
+              "name": "She-Hulk (Jennifer Walters)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009583"
+            },
+            {
+              "name": "Thor",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664"
+            }
+          ],
+          "available": 8
+        },
+        "variantDescription": ""
+      },
+      {
+        "description": "Thor Odinson. Steve Rogers. Tony Stark. The Big Three of the Avengers are reunited at last! And just in time to save the world from total annihilation at the hands of their most powerful enemies yet: the 2000-foot-tall space gods known as Celestials. Behold the coming of the Final Host. Who will answer the call to assemble for a wild new era of Earth’s Mightiest Heroes? Hint: one of them has a flaming skull for a head. And what strange, world-shaking connection exists between the Final Host and Odin’s ancient band of Prehistoric Avengers?",
+        "modified": "2021-08-02T00:16:28-0400",
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/5af0aacb41ae3",
+          "extension": "jpg"
+        },
+        "title": "Avengers (2018) #1",
+        "diamondCode": "FEB188354",
+        "issn": "2644-1616",
+        "events": {
+          "returned": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67002/events",
+          "items": [],
+          "available": 0
+        },
+        "upc": "75960608857700111",
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/20/5af0aacb41ae3",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/e0/5ae0cea14971c",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/5a96f64fb2081",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "returned": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67002/creators",
+          "items": [
+            {
+              "name": "Jason Aaron",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "role": "writer"
+            },
+            {
+              "name": "Tom Brevoort",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "role": "editor"
+            },
+            {
+              "name": "David Curiel",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13021",
+              "role": "colorist"
+            },
+            {
+              "name": "Ed Mcguinness",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+              "role": "penciler (cover)"
+            },
+            {
+              "name": "Mark Morales",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/454",
+              "role": "inker (cover)"
+            },
+            {
+              "name": "Vc Cory Petit",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "role": "letterer"
+            },
+            {
+              "name": "Justin Ponsor",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/360",
+              "role": "colorist (cover)"
+            }
+          ],
+          "available": 7
+        },
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "text": "Thor Odinson. Steve Rogers. Tony Stark. The Big Three of the Avengers are reunited at last! And just in time to save the world from total annihilation at the hands of their most powerful enemies yet: the 2000-foot-tall space gods known as Celestials. Behold the coming of the Final Host. Who will answer the call to assemble for a wild new era of Earth’s Mightiest Heroes? Hint: one of them has a flaming skull for a head. And what strange, world-shaking connection exists between the Final Host and Odin’s ancient band of Prehistoric Avengers?",
+            "language": "en-us"
+          }
+        ],
+        "pageCount": 40,
+        "ean": "",
+        "id": 67002,
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-05-02T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2018-04-09T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2018-11-05T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2018-05-02T00:00:00-0400"
+          }
+        ],
+        "format": "Comic",
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/67002",
+        "stories": {
+          "returned": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67002/stories",
+          "items": [
+            {
+              "name": "cover from Avengers (2018) #1",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/145183",
+              "type": "cover"
+            },
+            {
+              "name": "story from Avengers (2018) #1",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/145184",
+              "type": "interiorStory"
+            }
+          ],
+          "available": 2
+        },
+        "isbn": "",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/67002/avengers_2018_1?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Avengers-1/digital-comic/47926?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=47926&utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/47926?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          }
+        ],
+        "variants": [],
+        "issueNumber": 1,
+        "collections": [],
+        "series": {
+          "name": "Avengers (2018 - Present)",
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24229"
+        },
+        "digitalId": 47926,
+        "collectedIssues": [],
+        "characters": {
+          "returned": 9,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/67002/characters",
+          "items": [
+            {
+              "name": "Avengers",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165"
+            },
+            {
+              "name": "Black Panther",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187"
+            },
+            {
+              "name": "Captain America",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220"
+            },
+            {
+              "name": "Captain Marvel (Carol Danvers)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338"
+            },
+            {
+              "name": "Doctor Strange",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009282"
+            },
+            {
+              "name": "Ghost Rider (Robbie Reyes)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017833"
+            },
+            {
+              "name": "Iron Man",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368"
+            },
+            {
+              "name": "She-Hulk (Jennifer Walters)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009583"
+            },
+            {
+              "name": "Thor",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664"
+            }
+          ],
+          "available": 9
+        },
+        "variantDescription": ""
+      },
+      {
+        "description": "Collects Marvel Legacy #1, Marvel Legacy Primer pages, FOOM Magazine (2017). EVERYTHING STARTS HERE! It begins at the dawn of the human race, and ends with a child's prayer! In between, empires fall, mysteries brew, secrets are revealed, quests are undertaken and legends are forged! All leading up to the dramatic return you've been waiting for - and one you've been dreading! Jason Aaron (MIGHTY THOR) and Esad Ribic (SECRET WARS) usher in a new dawn - one whose rays will touch every corner of the Marvel Universe in the days to come! MARVEL LEGACY: It's everything you've been longing for - and more!",
+        "modified": "2018-02-14T17:04:11-0500",
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 39.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/5a84b6736611e",
+          "extension": "jpg"
+        },
+        "title": "Marvel Legacy (Hardcover)",
+        "diamondCode": "NOV171038",
+        "issn": "",
+        "events": {
+          "returned": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/66206/events",
+          "items": [],
+          "available": 0
+        },
+        "upc": "",
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/5a84b6736611e",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "returned": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/66206/creators",
+          "items": [
+            {
+              "name": "Various",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+              "role": "penciller"
+            },
+            {
+              "name": "Esad Ribic",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/182",
+              "role": "penciller"
+            },
+            {
+              "name": "Jason Aaron",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "role": "writer"
+            },
+            {
+              "name": "Joe Quesada",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13152",
+              "role": "penciller (cover)"
+            },
+            {
+              "name": "Jeff Youngquist",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "role": "editor"
+            }
+          ],
+          "available": 5
+        },
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "text": "Collects Marvel Legacy #1, Marvel Legacy Primer pages, FOOM Magazine (2017). EVERYTHING STARTS HERE! It begins at the dawn of the human race, and ends with a child's prayer! In between, empires fall, mysteries brew, secrets are revealed, quests are undertaken and legends are forged! All leading up to the dramatic return you've been waiting for - and one you've been dreading! Jason Aaron (MIGHTY THOR) and Esad Ribic (SECRET WARS) usher in a new dawn - one whose rays will touch every corner of the Marvel Universe in the days to come! MARVEL LEGACY: It's everything you've been longing for - and more!",
+            "language": "en-us"
+          }
+        ],
+        "pageCount": 264,
+        "ean": "9781302 911010 53999",
+        "id": 66206,
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-02-21T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-12-25T00:00:00-0500"
+          }
+        ],
+        "format": "Hardcover",
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/66206",
+        "stories": {
+          "returned": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/66206/stories",
+          "items": [
+            {
+              "name": "cover from MARVEL LEGACY HC (2018) #1",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/143539",
+              "type": "cover"
+            },
+            {
+              "name": "story from MARVEL LEGACY HC (2018) #1",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/143540",
+              "type": "interiorStory"
+            }
+          ],
+          "available": 2
+        },
+        "isbn": "978-1-302-91101-0",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/66206/marvel_legacy_hardcover?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/MARVEL-LEGACY-HC-0/digital-comic/47254?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          }
+        ],
+        "variants": [],
+        "issueNumber": 0,
+        "collections": [],
+        "series": {
+          "name": "Marvel Legacy (2018)",
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/24003"
+        },
+        "digitalId": 0,
+        "collectedIssues": [],
+        "characters": {
+          "returned": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/66206/characters",
+          "items": [
+            {
+              "name": "Avengers",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165"
+            },
+            {
+              "name": "Captain America",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220"
+            },
+            {
+              "name": "Captain Marvel (Carol Danvers)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338"
+            },
+            {
+              "name": "Ghost Rider (Robbie Reyes)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017833"
+            },
+            {
+              "name": "Hulk",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351"
+            },
+            {
+              "name": "Star Brand",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011307"
+            },
+            {
+              "name": "Thor",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664"
+            },
+            {
+              "name": "Wolverine",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718"
+            }
+          ],
+          "available": 8
+        },
+        "variantDescription": ""
+      },
+      {
+        "description": "Collects Guidebook to the Marvel Cinematic Universe - Marvel's Agents of S.H.I.E.L.D. Season One, Two, Three, Four; Marvel's Agent Carter Season One, Two. Level 7 access granted! Just as the MCU exploded onto TV screens, the Guidebooks expand their coverage to take on Marvel’s Agents of S.H.I.E.L.D. and Marvel’s Agent Carter — including an ALL-NEW exclusive chapter on S.H.I.E.L.D. Season Four! We reveal everything you need to know about the past and present of S.H.I.E.L.D., from the early days of Agent Peggy Carter’s SSR to Agent Phil Coulson’s ragtag team! Featuring fact sheets, comic-book counterparts, behind-the-scenes artwork and production stills, this Guidebook is packed with profiles of all the major players, including Carter; Coulson; Daisy Johnson, a.k.a. Quake, A.K.A. Skye; Melinda May; Leo Fitz; Jemma Simmons; and Grant Ward. Plus: Howard Stark, Edwin Jarvis, Deathlok, Ghost Rider, the Inhumans and more!",
+        "modified": "2017-12-18T18:21:27-0500",
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 24.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5a384ff48c25c",
+          "extension": "jpg"
+        },
+        "title": "Marvel Cinematic Universe Guidebook: It's All Connected (Hardcover)",
+        "diamondCode": "JUL171193",
+        "issn": "",
+        "events": {
+          "returned": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65591/events",
+          "items": [],
+          "available": 0
+        },
+        "upc": "",
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/b0/5a384ff48c25c",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "returned": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65591/creators",
+          "items": [
+            {
+              "name": "Various",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+              "role": "penciller (cover)"
+            },
+            {
+              "name": "Anthony Cotilletta",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11600",
+              "role": "writer"
+            },
+            {
+              "name": "Mike O'sullivan",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10004",
+              "role": "writer"
+            },
+            {
+              "name": "Jeff Youngquist",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "role": "editor"
+            }
+          ],
+          "available": 4
+        },
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "text": "Collects Guidebook to the Marvel Cinematic Universe - Marvel's Agents of S.H.I.E.L.D. Season One, Two, Three, Four; Marvel's Agent Carter Season One, Two. Level 7 access granted! Just as the MCU exploded onto TV screens, the Guidebooks expand their coverage to take on Marvel’s Agents of S.H.I.E.L.D. and Marvel’s Agent Carter — including an ALL-NEW exclusive chapter on S.H.I.E.L.D. Season Four! We reveal everything you need to know about the past and present of S.H.I.E.L.D., from the early days of Agent Peggy Carter’s SSR to Agent Phil Coulson’s ragtag team! Featuring fact sheets, comic-book counterparts, behind-the-scenes artwork and production stills, this Guidebook is packed with profiles of all the major players, including Carter; Coulson; Daisy Johnson, a.k.a. Quake, A.K.A. Skye; Melinda May; Leo Fitz; Jemma Simmons; and Grant Ward. Plus: Howard Stark, Edwin Jarvis, Deathlok, Ghost Rider, the Inhumans and more!",
+            "language": "en-us"
+          }
+        ],
+        "pageCount": 120,
+        "ean": "9781302 908294 52499",
+        "id": 65591,
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-01-03T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-09-04T00:00:00-0400"
+          }
+        ],
+        "format": "Hardcover",
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/65591",
+        "stories": {
+          "returned": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65591/stories",
+          "items": [
+            {
+              "name": "cover from MARVEL CINEMATIC UNIVERSE GUIDEBOOK: IT'S ALL CONNECTED HC (2018) #1",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/142302",
+              "type": "cover"
+            },
+            {
+              "name": "story from MARVEL CINEMATIC UNIVERSE GUIDEBOOK: IT'S ALL CONNECTED HC (2018) #1",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/142303",
+              "type": "interiorStory"
+            }
+          ],
+          "available": 2
+        },
+        "isbn": "978-1-302-90829-4",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/65591/marvel_cinematic_universe_guidebook_its_all_connected_hardcover?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          }
+        ],
+        "variants": [],
+        "issueNumber": 0,
+        "collections": [],
+        "series": {
+          "name": "Marvel Cinematic Universe Guidebook: It's All Connected (2018)",
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23848"
+        },
+        "digitalId": 0,
+        "collectedIssues": [],
+        "characters": {
+          "returned": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65591/characters",
+          "items": [
+            {
+              "name": "Avengers",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165"
+            },
+            {
+              "name": "Captain America",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220"
+            },
+            {
+              "name": "Ghost Rider (Robbie Reyes)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017833"
+            },
+            {
+              "name": "S.H.I.E.L.D.",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009552"
+            }
+          ],
+          "available": 4
+        },
+        "variantDescription": ""
+      },
+      {
+        "description": "EVERYTHING STARTS HERE! It begins at the dawn of the human race, and ends with a child's prayer! In between, empires fall, mysteries brew, secrets are revealed, quests are undertaken and legends are forged! All leading up to the dramatic return you've been waiting for - and one you've been dreading! Jason Aaron (MIGHTY THOR) and Esad Ribic (SECRET WARS) usher in a new dawn - one whose rays will touch every corner of the Marvel Universe in the days to come! MARVEL LEGACY: It's everything you've been longing for - and more!",
+        "modified": "2018-06-04T15:02:51-0400",
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 5.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 5.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/59c281f4d6414",
+          "extension": "jpg"
+        },
+        "title": "Marvel Legacy (2017) #1",
+        "diamondCode": "JUL170990",
+        "issn": "",
+        "events": {
+          "returned": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64417/events",
+          "items": [],
+          "available": 0
+        },
+        "upc": "75960608704400111",
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/a0/59c281f4d6414",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "returned": 20,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64417/creators",
+          "items": [
+            {
+              "name": "Jason Aaron",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+              "role": "writer"
+            },
+            {
+              "name": "Daniel Acuna",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1004",
+              "role": "colorist"
+            },
+            {
+              "name": "Tom Brevoort",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "role": "editor"
+            },
+            {
+              "name": "Jim Cheung",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/357",
+              "role": "penciler"
+            },
+            {
+              "name": "Stuart Immonen",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/192",
+              "role": "penciler"
+            },
+            {
+              "name": "Greg Land",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+              "role": "penciler"
+            },
+            {
+              "name": "Ed Mcguinness",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+              "role": "penciler"
+            },
+            {
+              "name": "Russell Dauterman",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12449",
+              "role": "inker"
+            },
+            {
+              "name": "Mike Deodato",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/312",
+              "role": "inker"
+            },
+            {
+              "name": "Wade Von Grawbadger",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/552",
+              "role": "inker"
+            },
+            {
+              "name": "Pepe Larraz",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10144",
+              "role": "inker"
+            },
+            {
+              "name": "Jay Leisten",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/616",
+              "role": "inker"
+            },
+            {
+              "name": "Alex Maleev",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/25",
+              "role": "inker"
+            },
+            {
+              "name": "David Marquez",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11610",
+              "role": "inker"
+            },
+            {
+              "name": "Steve Mcniven",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9484",
+              "role": "inker"
+            },
+            {
+              "name": "Esad Ribic",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/182",
+              "role": "inker"
+            },
+            {
+              "name": "Richard Isanove",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13055",
+              "role": "colorist (cover)"
+            },
+            {
+              "name": "Kevin Nowlan",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1275",
+              "role": "inker (cover)"
+            },
+            {
+              "name": "Vc Cory Petit",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+              "role": "letterer"
+            },
+            {
+              "name": "Joe Quesada",
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13152",
+              "role": "penciler (cover)"
+            }
+          ],
+          "available": 22
+        },
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "text": "EVERYTHING STARTS HERE! It begins at the dawn of the human race, and ends with a child's prayer! In between, empires fall, mysteries brew, secrets are revealed, quests are undertaken and legends are forged! All leading up to the dramatic return you've been waiting for - and one you've been dreading! Jason Aaron (MIGHTY THOR) and Esad Ribic (SECRET WARS) usher in a new dawn - one whose rays will touch every corner of the Marvel Universe in the days to come! MARVEL LEGACY: It's everything you've been longing for - and more!",
+            "language": "en-us"
+          }
+        ],
+        "pageCount": 64,
+        "ean": "",
+        "id": 64417,
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-09-27T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-09-04T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2018-04-02T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2017-09-27T00:00:00-0400"
+          }
+        ],
+        "format": "Comic",
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/64417",
+        "stories": {
+          "returned": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64417/stories",
+          "items": [
+            {
+              "name": "cover from Marvel Legacy (2017) #1 (WRAPAROUND GATEFOLD COVER)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/139820",
+              "type": "cover"
+            },
+            {
+              "name": "story from Marvel Legacy (2017) #1 (WRAPAROUND GATEFOLD COVER)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/139821",
+              "type": "interiorStory"
+            }
+          ],
+          "available": 2
+        },
+        "isbn": "",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/64417/marvel_legacy_2017_1?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/MARVEL-LEGACY-1-WRAPAROUND-GATEFOLD-COVER-1/digital-comic/45709?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=45709&utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/45709?utm_campaign=apiRef&utm_source=77d5b384074aa906b09db453b7023bcb"
+          }
+        ],
+        "variants": [],
+        "issueNumber": 1,
+        "collections": [],
+        "series": {
+          "name": "Marvel Legacy (2017)",
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23456"
+        },
+        "digitalId": 45709,
+        "collectedIssues": [],
+        "characters": {
+          "returned": 10,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64417/characters",
+          "items": [
+            {
+              "name": "Amadeus Cho",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011227"
+            },
+            {
+              "name": "Avengers",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165"
+            },
+            {
+              "name": "Captain America",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220"
+            },
+            {
+              "name": "Captain America (Sam Wilson)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017575"
+            },
+            {
+              "name": "Ghost Rider (Robbie Reyes)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017833"
+            },
+            {
+              "name": "Ironheart (Riri Williams)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017831"
+            },
+            {
+              "name": "Norman Osborn",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009325"
+            },
+            {
+              "name": "Star Brand",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011307"
+            },
+            {
+              "name": "Thor",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009664"
+            },
+            {
+              "name": "Thor (Goddess of Thunder)",
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017576"
+            }
+          ],
+          "available": 10
+        },
+        "variantDescription": ""
+      }
+    ],
+    "offset": 0,
+    "count": 20,
+    "total": 30,
+    "limit": 20
+  },
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2022 MARVEL</a>",
+  "copyright": "© 2022 MARVEL",
+  "code": 200,
+  "attributionText": "Data provided by Marvel. © 2022 MARVEL",
+  "status": "Ok"
+}

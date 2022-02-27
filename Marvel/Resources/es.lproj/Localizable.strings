@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Marvel
+
+ //  Created by Carlos Lloret Playan on 05/04/21.
+
+*/
+
+"Error" = "Error";
+"OK" = "OK";
+"Loading" = "Cargando...";
+"No description available" = "No hay descripción disponible";
+"Details of" = "Detalles de";
+"Unable to obtain characters" = "No se han podido obtener los personajes";
+"Unable to obtain the comics" = "No se han podido obtener los comics";
